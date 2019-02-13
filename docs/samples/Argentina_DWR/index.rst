@@ -3,7 +3,7 @@ Sample: Argentine Daily Weather Report
 
 .. list-table::
    
-   * - .. image:: ./Left_hand.png
+   * - .. image:: ./103.jpg
           :alt: Left-hand page, data table
-     - .. image:: ./Right_hand.png
+     - .. image:: ./104.jpg
           :alt: Right_hand page, analysis
