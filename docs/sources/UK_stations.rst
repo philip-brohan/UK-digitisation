@@ -12,6 +12,7 @@ The station records can be further divided according to the document series cont
    :maxdepth: 1
 	      
    registers
+   climate_returns
    observatories
    second_order
    DWR
