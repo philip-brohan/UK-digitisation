@@ -15,6 +15,8 @@ The reanalyses need sub-daily observations (particular of station pressure or MS
 
 While these are global datasets, there is much opportunity to improve them in the vicinity of the UK. There are few digitised pressure observations around the UK before about 1950, and 'preliminary studies indicate that digitising more would prodiuce `dramatic improvements in the reanalysis quality in this region <http://brohan.org/offline_assimilation/analyses/DWR_examples/Ulysses_storm_February_1903/index.html>`_. The :doc:`DWR records <../sources/DWR>` would be particularly well suited to this work.
 
+This is an active and successful area of work, and additional digitisation could make a big difference in the qualiy of the reconstructions around the UK. We should give the digitisation required for this a high priority.
+
 
 
 
