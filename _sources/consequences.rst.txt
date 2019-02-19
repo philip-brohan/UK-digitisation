@@ -1,6 +1,7 @@
 Consequences
 ============
 
+<<<<<<< HEAD
 The job is not done when the data is transcribed:
 
 * Metadata for the observations (station locations, instrument types, observation times, ...) must also be found.
@@ -11,6 +12,10 @@ The job is not done when the data is transcribed:
 * A maintenance process will be needed - who will assign and change access permissions, authorise use, certify accuracy, respond to criticisms or corrections?
   
   
+=======
+
+
+>>>>>>> 8685f5962873125f1993f4d920e47f628c431a2e
 
 
 
