@@ -1,7 +1,6 @@
 Collaborators
 =============
 
-<<<<<<< HEAD
 Weather observations are many people's business, and there are many people and groups, in the UK and around the world, interested in digitising more of them.
 
 .. figure:: http://www.met-acre.net/splash_htm_files/15772.jpg
@@ -20,10 +19,6 @@ Weather observations are many people's business, and there are many people and g
 * The `Copernicus Climate Change Service <https://climate.copernicus.eu/>`_ is supporting data rescue both through the `C3S DRS <http://ensembles-eu.metoffice.com/C3S-DR/index_C3SDR.html>`_ and `C3S GLAMOD <https://climate.copernicus.eu/node/562>`_ projects. Rescued data will be available through the `Climate Datastore <https://cds.climate.copernicus.eu/#!/home>`_ and will be used in their planned long-timescale reanalysis.
 
 Given that `ACRE <http://met-acre.net>`_ is active, effective and available, the best way to benefit from collaboration is to work with them.
-=======
-
-
->>>>>>> 8685f5962873125f1993f4d920e47f628c431a2e
 
 
 
